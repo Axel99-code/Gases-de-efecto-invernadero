@@ -1,0 +1,166 @@
+"año";"sector";"unidad_de_medida";"total";"co2";"ch4";"n2o";"otros_gei"
+"1990";"Energia";"MtCO2e";"102.32";"88.86";"13.10";"0.36";"0.00"
+"1990";"Procesos industriales y uso de productos";"MtCO2e";"8.52";"8.35";"0.05";"0.06";"0.05"
+"1990";"Agricultura y Ganaderia";"MtCO2e";"96.24";"0.14";"83.46";"12.63";"0.00"
+"1990";"Usos de la Tierra, Cambios de Uso de la Tierra y Silvicultura";"MtCO2e";"54.95";"44.35";"8.25";"2.35";"0.00"
+"1990";"Residuos";"MtCO2e";"11.80";"0.02";"11.09";"0.69";"0.00"
+"1991";"Energia";"MtCO2e";"108.04";"93.80";"13.84";"0.40";"0.00"
+"1991";"Procesos industriales y uso de productos";"MtCO2e";"7.89";"7.72";"0.05";"0.06";"0.05"
+"1991";"Agricultura y Ganaderia";"MtCO2e";"97.83";"0.14";"84.66";"13.03";"0.00"
+"1991";"Usos de la Tierra, Cambios de Uso de la Tierra y Silvicultura";"MtCO2e";"78.39";"67.71";"8.31";"2.37";"0.00"
+"1991";"Residuos";"MtCO2e";"12.11";"0.02";"11.36";"0.74";"0.00"
+"1992";"Energia";"MtCO2e";"111.63";"96.68";"14.52";"0.43";"0.00"
+"1992";"Procesos industriales y uso de productos";"MtCO2e";"7.89";"7.72";"0.06";"0.06";"0.05"
+"1992";"Agricultura y Ganaderia";"MtCO2e";"99.41";"0.14";"86.12";"13.15";"0.00"
+"1992";"Usos de la Tierra, Cambios de Uso de la Tierra y Silvicultura";"MtCO2e";"80.85";"70.09";"8.38";"2.39";"0.00"
+"1992";"Residuos";"MtCO2e";"12.35";"0.02";"11.58";"0.74";"0.00"
+"1993";"Energia";"MtCO2e";"113.62";"97.19";"15.98";"0.45";"0.00"
+"1993";"Procesos industriales y uso de productos";"MtCO2e";"8.38";"8.22";"0.05";"0.06";"0.05"
+"1993";"Agricultura y Ganaderia";"MtCO2e";"101.53";"0.14";"88.19";"13.19";"0.00"
+"1993";"Usos de la Tierra, Cambios de Uso de la Tierra y Silvicultura";"MtCO2e";"73.47";"62.71";"8.40";"2.37";"0.00"
+"1993";"Residuos";"MtCO2e";"12.60";"0.02";"11.81";"0.77";"0.00"
+"1994";"Energia";"MtCO2e";"118.89";"101.48";"16.92";"0.49";"0.00"
+"1994";"Procesos industriales y uso de productos";"MtCO2e";"9.66";"9.48";"0.05";"0.07";"0.05"
+"1994";"Agricultura y Ganaderia";"MtCO2e";"102.69";"0.22";"88.81";"13.66";"0.00"
+"1994";"Usos de la Tierra, Cambios de Uso de la Tierra y Silvicultura";"MtCO2e";"71.68";"65.65";"4.69";"1.34";"0.00"
+"1994";"Residuos";"MtCO2e";"12.94";"0.02";"12.15";"0.77";"0.00"
+"1995";"Energia";"MtCO2e";"121.82";"103.08";"18.25";"0.48";"0.00"
+"1995";"Procesos industriales y uso de productos";"MtCO2e";"9.62";"9.44";"0.06";"0.07";"0.06"
+"1995";"Agricultura y Ganaderia";"MtCO2e";"101.36";"0.24";"87.24";"13.88";"0.00"
+"1995";"Usos de la Tierra, Cambios de Uso de la Tierra y Silvicultura";"MtCO2e";"75.66";"69.46";"4.83";"1.36";"0.00"
+"1995";"Residuos";"MtCO2e";"13.36";"0.02";"12.57";"0.77";"0.00"
+"1996";"Energia";"MtCO2e";"138.41";"117.32";"20.51";"0.58";"0.00"
+"1996";"Procesos industriales y uso de productos";"MtCO2e";"10.33";"10.15";"0.06";"0.06";"0.06"
+"1996";"Agricultura y Ganaderia";"MtCO2e";"98.91";"0.40";"84.16";"14.34";"0.00"
+"1996";"Usos de la Tierra, Cambios de Uso de la Tierra y Silvicultura";"MtCO2e";"94.08";"88.52";"4.34";"1.22";"0.00"
+"1996";"Residuos";"MtCO2e";"13.78";"0.02";"12.96";"0.80";"0.00"
+"1997";"Energia";"MtCO2e";"139.47";"117.15";"21.74";"0.57";"0.00"
+"1997";"Procesos industriales y uso de productos";"MtCO2e";"11.49";"11.30";"0.05";"0.08";"0.06"
+"1997";"Agricultura y Ganaderia";"MtCO2e";"97.76";"0.37";"82.90";"14.50";"0.00"
+"1997";"Usos de la Tierra, Cambios de Uso de la Tierra y Silvicultura";"MtCO2e";"89.54";"84.00";"4.31";"1.23";"0.00"
+"1997";"Residuos";"MtCO2e";"14.22";"0.02";"13.38";"0.81";"0.00"
+"1998";"Energia";"MtCO2e";"147.53";"124.31";"22.62";"0.59";"0.00"
+"1998";"Procesos industriales y uso de productos";"MtCO2e";"11.81";"11.60";"0.05";"0.08";"0.08"
+"1998";"Agricultura y Ganaderia";"MtCO2e";"93.60";"0.36";"78.79";"14.44";"0.00"
+"1998";"Usos de la Tierra, Cambios de Uso de la Tierra y Silvicultura";"MtCO2e";"109.23";"102.29";"5.18";"1.76";"0.00"
+"1998";"Residuos";"MtCO2e";"14.39";"0.03";"13.76";"0.60";"0.00"
+"1999";"Energia";"MtCO2e";"150.13";"126.56";"23.01";"0.56";"0.00"
+"1999";"Procesos industriales y uso de productos";"MtCO2e";"11.18";"10.92";"0.06";"0.08";"0.12"
+"1999";"Agricultura y Ganaderia";"MtCO2e";"98.27";"0.47";"82.55";"15.26";"0.00"
+"1999";"Usos de la Tierra, Cambios de Uso de la Tierra y Silvicultura";"MtCO2e";"93.72";"87.85";"4.46";"1.40";"0.00"
+"1999";"Residuos";"MtCO2e";"14.76";"0.03";"14.11";"0.63";"0.00"
+"2000";"Energia";"MtCO2e";"147.40";"122.52";"24.37";"0.51";"0.00"
+"2000";"Procesos industriales y uso de productos";"MtCO2e";"10.71";"10.39";"0.05";"0.08";"0.19"
+"2000";"Agricultura y Ganaderia";"MtCO2e";"97.00";"0.47";"81.43";"15.10";"0.00"
+"2000";"Usos de la Tierra, Cambios de Uso de la Tierra y Silvicultura";"MtCO2e";"99.15";"85.20";"9.85";"4.10";"0.00"
+"2000";"Residuos";"MtCO2e";"15.22";"0.03";"14.57";"0.63";"0.00"
+"2001";"Energia";"MtCO2e";"143.76";"117.83";"25.40";"0.52";"0.00"
+"2001";"Procesos industriales y uso de productos";"MtCO2e";"11.18";"10.77";"0.11";"0.06";"0.24"
+"2001";"Agricultura y Ganaderia";"MtCO2e";"95.02";"0.52";"79.32";"15.18";"0.00"
+"2001";"Usos de la Tierra, Cambios de Uso de la Tierra y Silvicultura";"MtCO2e";"101.58";"82.87";"12.46";"6.25";"0.00"
+"2001";"Residuos";"MtCO2e";"15.78";"0.02";"15.14";"0.61";"0.00"
+"2002";"Energia";"MtCO2e";"136.19";"111.17";"24.54";"0.49";"0.00"
+"2002";"Procesos industriales y uso de productos";"MtCO2e";"11.01";"10.50";"0.12";"0.07";"0.31"
+"2002";"Agricultura y Ganaderia";"MtCO2e";"97.53";"0.47";"81.93";"15.13";"0.00"
+"2002";"Usos de la Tierra, Cambios de Uso de la Tierra y Silvicultura";"MtCO2e";"110.64";"97.59";"9.42";"3.63";"0.00"
+"2002";"Residuos";"MtCO2e";"16.13";"0.02";"15.55";"0.55";"0.00"
+"2003";"Energia";"MtCO2e";"146.15";"119.14";"26.50";"0.51";"0.00"
+"2003";"Procesos industriales y uso de productos";"MtCO2e";"12.80";"12.17";"0.16";"0.08";"0.39"
+"2003";"Agricultura y Ganaderia";"MtCO2e";"100.74";"0.61";"83.96";"16.17";"0.00"
+"2003";"Usos de la Tierra, Cambios de Uso de la Tierra y Silvicultura";"MtCO2e";"110.19";"96.11";"10.26";"3.82";"0.00"
+"2003";"Residuos";"MtCO2e";"16.76";"0.02";"16.16";"0.57";"0.00"
+"2004";"Energia";"MtCO2e";"158.51";"130.62";"27.32";"0.57";"0.00"
+"2004";"Procesos industriales y uso de productos";"MtCO2e";"14.19";"13.48";"0.16";"0.08";"0.47"
+"2004";"Agricultura y Ganaderia";"MtCO2e";"103.19";"0.69";"85.40";"17.10";"0.00"
+"2004";"Usos de la Tierra, Cambios de Uso de la Tierra y Silvicultura";"MtCO2e";"110.99";"104.50";"4.93";"1.56";"0.00"
+"2004";"Residuos";"MtCO2e";"17.22";"0.03";"16.62";"0.58";"0.00"
+"2005";"Energia";"MtCO2e";"162.36";"135.17";"26.61";"0.59";"0.00"
+"2005";"Procesos industriales y uso de productos";"MtCO2e";"15.54";"14.61";"0.16";"0.08";"0.69"
+"2005";"Agricultura y Ganaderia";"MtCO2e";"103.33";"0.56";"85.64";"17.13";"0.00"
+"2005";"Usos de la Tierra, Cambios de Uso de la Tierra y Silvicultura";"MtCO2e";"100.74";"93.20";"5.67";"1.87";"0.00"
+"2005";"Residuos";"MtCO2e";"17.77";"0.03";"17.13";"0.61";"0.00"
+"2006";"Energia";"MtCO2e";"171.34";"143.74";"26.97";"0.63";"0.00"
+"2006";"Procesos industriales y uso de productos";"MtCO2e";"16.04";"15.12";"0.16";"0.09";"0.67"
+"2006";"Agricultura y Ganaderia";"MtCO2e";"105.09";"0.75";"86.23";"18.11";"0.00"
+"2006";"Usos de la Tierra, Cambios de Uso de la Tierra y Silvicultura";"MtCO2e";"117.60";"110.15";"5.68";"1.77";"0.00"
+"2006";"Residuos";"MtCO2e";"18.26";"0.03";"17.60";"0.63";"0.00"
+"2007";"Energia";"MtCO2e";"185.60";"158.06";"26.86";"0.68";"0.00"
+"2007";"Procesos industriales y uso de productos";"MtCO2e";"16.73";"15.75";"0.14";"0.07";"0.76"
+"2007";"Agricultura y Ganaderia";"MtCO2e";"105.06";"0.70";"85.79";"18.57";"0.00"
+"2007";"Usos de la Tierra, Cambios de Uso de la Tierra y Silvicultura";"MtCO2e";"124.40";"117.33";"5.47";"1.60";"0.00"
+"2007";"Residuos";"MtCO2e";"18.31";"0.03";"17.64";"0.64";"0.00"
+"2008";"Energia";"MtCO2e";"191.05";"163.28";"26.82";"0.95";"0.00"
+"2008";"Procesos industriales y uso de productos";"MtCO2e";"16.54";"15.55";"0.14";"0.06";"0.78"
+"2008";"Agricultura y Ganaderia";"MtCO2e";"104.85";"0.65";"86.49";"17.71";"0.00"
+"2008";"Usos de la Tierra, Cambios de Uso de la Tierra y Silvicultura";"MtCO2e";"99.95";"93.37";"5.03";"1.56";"0.00"
+"2008";"Residuos";"MtCO2e";"18.02";"0.03";"17.34";"0.65";"0.00"
+"2009";"Energia";"MtCO2e";"177.60";"151.48";"25.23";"0.89";"0.00"
+"2009";"Procesos industriales y uso de productos";"MtCO2e";"14.83";"13.73";"0.15";"0.07";"0.88"
+"2009";"Agricultura y Ganaderia";"MtCO2e";"100.31";"0.65";"83.28";"16.38";"0.00"
+"2009";"Usos de la Tierra, Cambios de Uso de la Tierra y Silvicultura";"MtCO2e";"75.67";"69.96";"4.17";"1.54";"0.00"
+"2009";"Residuos";"MtCO2e";"17.68";"0.03";"17.00";"0.65";"0.00"
+"2010";"Energia";"MtCO2e";"190.66";"165.05";"24.57";"1.05";"0.00"
+"2010";"Procesos industriales y uso de productos";"MtCO2e";"17.20";"15.95";"0.14";"0.07";"1.05"
+"2010";"Agricultura y Ganaderia";"MtCO2e";"95.00";"0.86";"76.62";"17.52";"0.00"
+"2010";"Usos de la Tierra, Cambios de Uso de la Tierra y Silvicultura";"MtCO2e";"79.33";"75.14";"3.25";"0.94";"0.00"
+"2010";"Residuos";"MtCO2e";"18.19";"0.03";"17.28";"0.88";"0.00"
+"2011";"Energia";"MtCO2e";"198.85";"173.69";"24.05";"1.11";"0.00"
+"2011";"Procesos industriales y uso de productos";"MtCO2e";"18.57";"17.25";"0.14";"0.07";"1.11"
+"2011";"Agricultura y Ganaderia";"MtCO2e";"93.30";"0.96";"73.97";"18.38";"0.00"
+"2011";"Usos de la Tierra, Cambios de Uso de la Tierra y Silvicultura";"MtCO2e";"56.85";"52.98";"3.00";"0.88";"0.00"
+"2011";"Residuos";"MtCO2e";"18.59";"0.03";"17.67";"0.89";"0.00"
+"2012";"Energia";"MtCO2e";"199.12";"174.52";"23.48";"1.11";"0.00"
+"2012";"Procesos industriales y uso de productos";"MtCO2e";"17.67";"16.04";"0.14";"0.08";"1.41"
+"2012";"Agricultura y Ganaderia";"MtCO2e";"94.24";"0.79";"76.04";"17.41";"0.00"
+"2012";"Usos de la Tierra, Cambios de Uso de la Tierra y Silvicultura";"MtCO2e";"96.32";"90.85";"4.25";"1.22";"0.00"
+"2012";"Residuos";"MtCO2e";"19.16";"0.03";"18.23";"0.90";"0.00"
+"2013";"Energia";"MtCO2e";"201.71";"177.83";"22.77";"1.11";"0.00"
+"2013";"Procesos industriales y uso de productos";"MtCO2e";"19.30";"16.92";"0.14";"0.07";"2.17"
+"2013";"Agricultura y Ganaderia";"MtCO2e";"96.57";"0.85";"77.71";"18.00";"0.00"
+"2013";"Usos de la Tierra, Cambios de Uso de la Tierra y Silvicultura";"MtCO2e";"91.19";"85.34";"4.50";"1.34";"0.00"
+"2013";"Residuos";"MtCO2e";"19.53";"0.03";"18.72";"0.78";"0.00"
+"2014";"Energia";"MtCO2e";"198.54";"174.88";"22.57";"1.10";"0.00"
+"2014";"Procesos industriales y uso de productos";"MtCO2e";"20.78";"17.10";"0.15";"0.07";"3.45"
+"2014";"Agricultura y Ganaderia";"MtCO2e";"98.22";"0.90";"78.72";"18.59";"0.00"
+"2014";"Usos de la Tierra, Cambios de Uso de la Tierra y Silvicultura";"MtCO2e";"62.18";"57.21";"3.68";"1.29";"0.00"
+"2014";"Residuos";"MtCO2e";"20.16";"0.03";"19.36";"0.77";"0.00"
+"2015";"Energia";"MtCO2e";"204.55";"180.25";"23.18";"1.12";"0.00"
+"2015";"Procesos industriales y uso de productos";"MtCO2e";"21.53";"17.04";"0.15";"0.06";"4.28"
+"2015";"Agricultura y Ganaderia";"MtCO2e";"96.97";"0.70";"78.58";"17.69";"0.00"
+"2015";"Usos de la Tierra, Cambios de Uso de la Tierra y Silvicultura";"MtCO2e";"40.41";"36.61";"2.84";"0.96";"0.00"
+"2015";"Residuos";"MtCO2e";"20.76";"0.03";"19.90";"0.82";"0.00"
+"2016";"Energia";"MtCO2e";"205.13";"180.35";"23.65";"1.12";"0.00"
+"2016";"Procesos industriales y uso de productos";"MtCO2e";"19.92";"14.94";"0.16";"0.04";"4.78"
+"2016";"Agricultura y Ganaderia";"MtCO2e";"98.76";"1.04";"78.46";"19.26";"0.00"
+"2016";"Usos de la Tierra, Cambios de Uso de la Tierra y Silvicultura";"MtCO2e";"34.11";"29.69";"3.20";"1.21";"0.00"
+"2016";"Residuos";"MtCO2e";"21.22";"0.03";"20.36";"0.82";"0.00"
+"2017";"Energia";"MtCO2e";"199.36";"174.89";"23.30";"1.18";"0.00"
+"2017";"Procesos industriales y uso de productos";"MtCO2e";"21.37";"15.84";"0.15";"0.06";"5.31"
+"2017";"Agricultura y Ganaderia";"MtCO2e";"101.03";"1.09";"80.23";"19.71";"0.00"
+"2017";"Usos de la Tierra, Cambios de Uso de la Tierra y Silvicultura";"MtCO2e";"43.48";"36.12";"5.37";"2.00";"0.00"
+"2017";"Residuos";"MtCO2e";"21.60";"0.03";"20.73";"0.84";"0.00"
+"2018";"Energia";"MtCO2e";"197.83";"172.31";"24.32";"1.19";"0.00"
+"2018";"Procesos industriales y uso de productos";"MtCO2e";"21.80";"16.07";"0.15";"0.06";"5.53"
+"2018";"Agricultura y Ganaderia";"MtCO2e";"102.13";"1.34";"80.52";"20.27";"0.00"
+"2018";"Usos de la Tierra, Cambios de Uso de la Tierra y Silvicultura";"MtCO2e";"42.47";"37.31";"3.71";"1.45";"0.00"
+"2018";"Residuos";"MtCO2e";"22.04";"0.03";"21.14";"0.87";"0.00"
+"2019";"Energia";"MtCO2e";"189.17";"162.92";"25.07";"1.18";"0.00"
+"2019";"Procesos industriales y uso de productos";"MtCO2e";"20.78";"14.72";"0.12";"0.05";"5.89"
+"2019";"Agricultura y Ganaderia";"MtCO2e";"103.56";"1.50";"80.42";"21.63";"0.00"
+"2019";"Usos de la Tierra, Cambios de Uso de la Tierra y Silvicultura";"MtCO2e";"10.90";"7.79";"2.35";"0.76";"0.00"
+"2019";"Residuos";"MtCO2e";"22.59";"0.03";"21.47";"1.09";"0.00"
+"2020";"Energia";"MtCO2e";"173.70";"149.73";"22.94";"1.03";"0.00"
+"2020";"Procesos industriales y uso de productos";"MtCO2e";"19.11";"13.02";"0.14";"0.05";"5.90"
+"2020";"Agricultura y Ganaderia";"MtCO2e";"103.70";"1.69";"79.67";"22.35";"0.00"
+"2020";"Usos de la Tierra, Cambios de Uso de la Tierra y Silvicultura";"MtCO2e";"73.82";"67.88";"4.51";"1.43";"0.00"
+"2020";"Residuos";"MtCO2e";"22.63";"0.03";"21.66";"0.93";"0.00"
+"2021";"Energia";"MtCO2e";"192.90";"168.17";"23.55";"1.18";"0.00"
+"2021";"Procesos industriales y uso de productos";"MtCO2e";"22.13";"15.51";"0.14";"0.10";"6.39"
+"2021";"Agricultura y Ganaderia";"MtCO2e";"104.45";"1.85";"79.36";"23.24";"0.00"
+"2021";"Usos de la Tierra, Cambios de Uso de la Tierra y Silvicultura";"MtCO2e";"55.89";"51.81";"3.10";"0.98";"0.00"
+"2021";"Residuos";"MtCO2e";"22.98";"0.03";"21.99";"0.96";"0.00"
+"2022";"Energia";"MtCO2e";"200.37";"174.05";"25.11";"1.21";"0.00"
+"2022";"Procesos industriales y uso de productos";"MtCO2e";"23.64";"16.71";"0.15";"0.17";"6.61"
+"2022";"Agricultura y Ganaderia";"MtCO2e";"102.19";"1.61";"78.61";"21.97";"0.00"
+"2022";"Usos de la Tierra, Cambios de Uso de la Tierra y Silvicultura";"MtCO2e";"51.40";"47.03";"3.21";"1.16";"0.00"
+"2022";"Residuos";"MtCO2e";"23.31";"0.04";"22.34";"0.94";"0.00"
