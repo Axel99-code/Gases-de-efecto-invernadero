@@ -119,5 +119,7 @@ otros_gei
 
 Principales hallazgos
 
+Hay Algunas Provincias las cuales la emision total fueron negativas, esto se puede traducir en que el balance de una provincia o jurisdicción absorbió más gases de los que emitió en un sector específico durante el año analizado. En la ciencia del cambio climático, esto se conoce como un sumidero de carbono.
+
 Recomendaciones
 
