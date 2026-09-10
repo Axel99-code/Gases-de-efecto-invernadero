@@ -121,5 +121,5 @@ Principales hallazgos
 
 Hay Algunas Provincias las cuales la emision total fueron negativas, esto se puede traducir en que el balance de una provincia o jurisdicción absorbió más gases de los que emitió en un sector específico durante el año analizado. En la ciencia del cambio climático, esto se conoce como un sumidero de carbono.
 
-Recomendaciones
+Los valores de CO₂ son muchísimo más altos que los de ch4 o n2o. Sin embargo, los otros gases (especialmente el metano) son más potentes para calentar el planeta por cada tonelada emitida, por lo que muchas bases de datos los convierten a una unidad común llamada CO₂e (Dióxido de Carbono Equivalente) para poder compararlos de forma justa.
 
