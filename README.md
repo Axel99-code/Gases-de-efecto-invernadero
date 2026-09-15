@@ -108,5 +108,3 @@ Sensores y aplicación dirigida: El uso de drones, imágenes satelitales y bande
 
 Manejo de pastizales y captura de carbono (Sumideros)
 La ganadería extensiva, posee una ventaja única frente a otras industrias: gestiona millones de hectáreas de biomasa vegetal y suelo. Si se pasa de un manejo tradicional (pastoreo continuo) a un manejo planificado o regenerativo, los pastizales pampeanos y de otras regiones argentinas pueden capturar más dióxido de carbono (CO₂) de la atmósfera del que los animales emiten, transformando los campos en sumideros netos de carbono.
-
-Gestión de estiércol y residuos
